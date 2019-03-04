@@ -1,0 +1,22 @@
+ProductId,ProductName,CategoryId,Stock,Price
+1201,DELL Laptop,02,10,45000
+1202,Levis Jeans,01,5,1200
+1203,G-shock watch,05,3,12000
+1204,Alexa,02,25,5000
+1205,Organic Harvest Shampoo,10,5,230
+1206,Algorithm by Cormen,09,2,1200
+1208,Parker Pen,08,34,170
+1209,BedSheet,07,12,230
+1210,Girls watch,06,22,130
+1211,necklace,06,3,1200
+1212,lipstick,06,6,130
+1213,lipbam,06,3,100
+1214,eyeliner,06,7,120
+1215,Men Wallet,05,23,500
+1216,Puma men shoes,04,11,1200
+1217,Nikeshoes,04,1,1500
+1218,Chair,03,12,1200
+1219,shirt,01,8,1000
+1220,table,03,2,1500
+1221,Apple Laptop,02,0,145000
+1222,Apple Phone,02,10,45000
